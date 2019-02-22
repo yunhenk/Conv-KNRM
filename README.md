@@ -1,6 +1,6 @@
 # Conv-KNRM
 
-This is a implementation of the paper:
+This is an implementation of the paper:
 [Convolutional Neural Networks for Soft-Matching N-Grams in
 Ad-hoc Search](http://www.cs.cmu.edu/~zhuyund/papers/WSDM_2018_Dai.pdf)
 
