@@ -1,7 +1,7 @@
 # Conv-KNRM
 
 This is a implementation of the paper:
-[Convolutional Neural Networks for So-Matching N-Grams in
+[Convolutional Neural Networks for Soft-Matching N-Grams in
 Ad-hoc Search](http://www.cs.cmu.edu/~zhuyund/papers/WSDM_2018_Dai.pdf)
 
 Inspired by project [K-NRM]([https://github.com/AdeDZY/K-NRM) by the author.
